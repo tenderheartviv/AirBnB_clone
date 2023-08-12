@@ -5,7 +5,8 @@ a module contains base class
 
 from datetime import datetime
 from uuid import uuid4
-import models #storage
+import models
+
 
 class BaseModel:
     """the Base class (parent class)"""
