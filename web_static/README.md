@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+0x01. AirBnB clone - Web static
+my firts HTML page creation
+=======
 ### AirBnB clone - The console
 
 ## description of the project
@@ -59,3 +63,4 @@ Documented commands (type help <topic>):
 EOF  help  quit
 (hbnb)
 $
+>>>>>>> 334978fe66dae2472ce85262467895269a8d5067
